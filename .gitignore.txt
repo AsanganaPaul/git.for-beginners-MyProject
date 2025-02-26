@@ -1,1 +1,0 @@
-# Ignore compiled output CompiledOutput.txt
