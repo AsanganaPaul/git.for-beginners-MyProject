@@ -1,5 +1,5 @@
 Welcome to my project
 
-Author: Asangana Paul
+Author: Asangana Paul Fleming
 
 IG: @Mr.drizzy.hops
